@@ -1,0 +1,748 @@
+application/src/Test.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+application/src/Test.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+application/src/Test.java:3:	CommentRequired:	CommentRequired: Class comments are required
+application/src/Test.java:3:	CommentRequired:	CommentRequired: Class comments are required
+application/src/Test.java:3:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+application/src/Test.java:3:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+application/src/Test.java:3:	ShortClassName:	ShortClassName: Avoid short class names like Test
+application/src/Test.java:3:	ShortClassName:	ShortClassName: Avoid short class names like Test
+application/src/Test.java:6:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the test method if you want a default access modifier
+application/src/Test.java:6:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the test method if you want a default access modifier
+application/src/etude/Connecter.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Connecter.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Connecter.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the con field if you want a default access modifier
+application/src/etude/Connecter.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the con field if you want a default access modifier
+application/src/etude/Connecter.java:17:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Connecter.java:17:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Connecter.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Connecter.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Connecter.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Connecter.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Connecter.java:22:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Connecter.java:22:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Connecter.java:24:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the obtenirconnexion method if you want a default access modifier
+application/src/etude/Connecter.java:24:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the obtenirconnexion method if you want a default access modifier
+application/src/etude/Connecter.java:24:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Connecter.java:24:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:4:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+application/src/etude/Gestion_des_notes.java:4:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+application/src/etude/Gestion_des_notes.java:4:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the current package 'etude.Connecter'
+application/src/etude/Gestion_des_notes.java:4:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the current package 'etude.Connecter'
+application/src/etude/Gestion_des_notes.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.concurrent.atomic.AtomicInteger'
+application/src/etude/Gestion_des_notes.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.concurrent.atomic.AtomicInteger'
+application/src/etude/Gestion_des_notes.java:7:	UnusedImports:	UnusedImports: Unused import 'java.util.concurrent.atomic.AtomicInteger'
+application/src/etude/Gestion_des_notes.java:7:	UnusedImports:	UnusedImports: Unused import 'java.util.concurrent.atomic.AtomicInteger'
+application/src/etude/Gestion_des_notes.java:14:	ClassNamingConventions:	ClassNamingConventions: The class name 'Gestion_des_notes' doesn't match '[A-Z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:14:	ClassNamingConventions:	ClassNamingConventions: The class name 'Gestion_des_notes' doesn't match '[A-Z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:14:	GodClass:	GodClass: Possible God Class (WMC=55, ATFD=228, TCC=27.536%)
+application/src/etude/Gestion_des_notes.java:14:	GodClass:	GodClass: Possible God Class (WMC=55, ATFD=228, TCC=27.536%)
+application/src/etude/Gestion_des_notes.java:14:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+application/src/etude/Gestion_des_notes.java:14:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+application/src/etude/Gestion_des_notes.java:14:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'Gestion_des_notes' has a Modified Cyclomatic Complexity of 3 (Highest = 17).
+application/src/etude/Gestion_des_notes.java:14:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'Gestion_des_notes' has a Modified Cyclomatic Complexity of 3 (Highest = 17).
+application/src/etude/Gestion_des_notes.java:14:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The class 'Gestion_des_notes' has a Standard Cyclomatic Complexity of 3 (Highest = 17).
+application/src/etude/Gestion_des_notes.java:14:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The class 'Gestion_des_notes' has a Standard Cyclomatic Complexity of 3 (Highest = 17).
+application/src/etude/Gestion_des_notes.java:14:	TooManyFields:	TooManyFields: Too many fields
+application/src/etude/Gestion_des_notes.java:14:	TooManyFields:	TooManyFields: Too many fields
+application/src/etude/Gestion_des_notes.java:14:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+application/src/etude/Gestion_des_notes.java:14:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+application/src/etude/Gestion_des_notes.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the conn field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the conn field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:19:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:19:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:20:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the stm field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:20:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the stm field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:20:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:20:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:20:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:20:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Rs field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Rs field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:21:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:21:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:21:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:21:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:21:	FieldNamingConventions:	FieldNamingConventions: The field name 'Rs' doesn't match '[a-z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:21:	FieldNamingConventions:	FieldNamingConventions: The field name 'Rs' doesn't match '[a-z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like Rs
+application/src/etude/Gestion_des_notes.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like Rs
+application/src/etude/Gestion_des_notes.java:21:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Rs' starts with uppercase character.
+application/src/etude/Gestion_des_notes.java:21:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Rs' starts with uppercase character.
+application/src/etude/Gestion_des_notes.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the model field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the model field if you want a default access modifier
+application/src/etude/Gestion_des_notes.java:22:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:22:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:22:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:22:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+application/src/etude/Gestion_des_notes.java:23:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+application/src/etude/Gestion_des_notes.java:23:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+application/src/etude/Gestion_des_notes.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:33:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+application/src/etude/Gestion_des_notes.java:33:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+application/src/etude/Gestion_des_notes.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Rs' could be declared final
+application/src/etude/Gestion_des_notes.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Rs' could be declared final
+application/src/etude/Gestion_des_notes.java:33:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Rs' doesn't match '[a-z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:33:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Rs' doesn't match '[a-z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like Rs
+application/src/etude/Gestion_des_notes.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like Rs
+application/src/etude/Gestion_des_notes.java:33:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Rs' starts with uppercase character.
+application/src/etude/Gestion_des_notes.java:33:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Rs' starts with uppercase character.
+application/src/etude/Gestion_des_notes.java:35:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+application/src/etude/Gestion_des_notes.java:35:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+application/src/etude/Gestion_des_notes.java:39:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:39:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:39:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:39:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:45:	CommentSize:	CommentSize: Comment is too large: Line too long
+application/src/etude/Gestion_des_notes.java:45:	CommentSize:	CommentSize: Comment is too large: Line too long
+application/src/etude/Gestion_des_notes.java:46:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+application/src/etude/Gestion_des_notes.java:46:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+application/src/etude/Gestion_des_notes.java:46:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'initComponents' has a Modified Cyclomatic Complexity of 17.
+application/src/etude/Gestion_des_notes.java:46:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'initComponents' has a Modified Cyclomatic Complexity of 17.
+application/src/etude/Gestion_des_notes.java:46:	NcssCount:	NcssCount: The method 'initComponents()' has a NCSS line count of 143.
+application/src/etude/Gestion_des_notes.java:46:	NcssCount:	NcssCount: The method 'initComponents()' has a NCSS line count of 143.
+application/src/etude/Gestion_des_notes.java:46:	NcssMethodCount:	NcssMethodCount: The method initComponents() has an NCSS line count of 143
+application/src/etude/Gestion_des_notes.java:46:	NcssMethodCount:	NcssMethodCount: The method initComponents() has an NCSS line count of 143
+application/src/etude/Gestion_des_notes.java:46:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The method 'initComponents' has a Standard Cyclomatic Complexity of 17.
+application/src/etude/Gestion_des_notes.java:46:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The method 'initComponents' has a Standard Cyclomatic Complexity of 17.
+application/src/etude/Gestion_des_notes.java:78:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:78:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:80:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Tahoma" appears 16 times in this file; the first occurrence is on line 94
+application/src/etude/Gestion_des_notes.java:80:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Tahoma" appears 16 times in this file; the first occurrence is on line 94
+application/src/etude/Gestion_des_notes.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:84:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:84:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:84:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:84:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:95:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:95:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:95:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:95:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:95:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:95:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:99:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:99:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:103:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:103:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:105:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:105:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:105:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:105:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:109:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:109:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:113:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:113:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:116:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:116:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:116:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:116:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:116:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:116:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:120:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:120:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:124:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:124:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:127:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:127:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:127:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:127:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:127:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:127:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:131:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:131:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:136:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:136:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:136:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:136:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:136:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:136:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:141:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:141:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:141:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:141:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:141:	MissingOverride:	MissingOverride: The method 'keyPressed(java.awt.event.KeyEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:141:	MissingOverride:	MissingOverride: The method 'keyPressed(java.awt.event.KeyEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:141:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:141:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:145:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:145:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:151:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:151:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:154:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+application/src/etude/Gestion_des_notes.java:154:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'javax.swing.table.DefaultTableModel' due to existing import 'javax.swing.table.DefaultTableModel'
+application/src/etude/Gestion_des_notes.java:166:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:166:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:166:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:166:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:166:	MissingOverride:	MissingOverride: The method 'mouseClicked(java.awt.event.MouseEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:166:	MissingOverride:	MissingOverride: The method 'mouseClicked(java.awt.event.MouseEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:172:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:172:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:177:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:177:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:182:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:182:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:187:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:187:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:192:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:192:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:197:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:197:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:202:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:202:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:202:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:202:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:202:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:202:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:206:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:206:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:212:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:212:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:212:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:212:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:212:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:212:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:216:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:216:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:220:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:220:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:224:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:224:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:229:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:229:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:229:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:229:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:229:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:229:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:233:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:233:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:238:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:238:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:238:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_A' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:238:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_A' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:241:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:241:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:241:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:241:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:241:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:241:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:247:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:247:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:247:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_M' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:247:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_M' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:250:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:250:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:250:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:250:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:250:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:250:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:256:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:256:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:256:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_DELETE' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:256:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_DELETE' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:259:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:259:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:259:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:259:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:259:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:259:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:265:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:265:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:265:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_F5' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:265:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_F5' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:268:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:268:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:268:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:268:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:268:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:268:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:274:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:274:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:274:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_R' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:274:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_R' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:277:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:277:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:277:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:277:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:277:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:277:	MissingOverride:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:287:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:287:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:287:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_A' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:287:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent.VK_A' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:297:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:297:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:297:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:297:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:299:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:299:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:300:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:300:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:301:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:301:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:302:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:302:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:303:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:303:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:304:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:304:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:304:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:304:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:311:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:311:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:312:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+application/src/etude/Gestion_des_notes.java:312:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+application/src/etude/Gestion_des_notes.java:312:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Rs' could be declared final
+application/src/etude/Gestion_des_notes.java:312:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Rs' could be declared final
+application/src/etude/Gestion_des_notes.java:312:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Rs' doesn't match '[a-z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:312:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Rs' doesn't match '[a-z][a-zA-Z0-9]*'
+application/src/etude/Gestion_des_notes.java:312:	ShortVariable:	ShortVariable: Avoid variables with short names like Rs
+application/src/etude/Gestion_des_notes.java:312:	ShortVariable:	ShortVariable: Avoid variables with short names like Rs
+application/src/etude/Gestion_des_notes.java:312:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Rs' starts with uppercase character.
+application/src/etude/Gestion_des_notes.java:312:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Rs' starts with uppercase character.
+application/src/etude/Gestion_des_notes.java:313:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:313:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:314:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+application/src/etude/Gestion_des_notes.java:314:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+application/src/etude/Gestion_des_notes.java:314:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:314:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:314:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:314:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:314:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:314:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:315:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:315:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:315:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:315:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:318:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:318:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:318:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:318:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:322:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:322:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:322:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:322:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:325:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:325:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:325:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:325:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:328:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:328:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:328:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:328:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:331:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:331:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:331:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:331:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:333:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:333:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:333:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:333:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:334:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:334:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:337:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:337:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:337:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:337:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:340:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+application/src/etude/Gestion_des_notes.java:340:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+application/src/etude/Gestion_des_notes.java:341:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nom' could be declared final
+application/src/etude/Gestion_des_notes.java:341:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nom' could be declared final
+application/src/etude/Gestion_des_notes.java:342:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prenom' could be declared final
+application/src/etude/Gestion_des_notes.java:342:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prenom' could be declared final
+application/src/etude/Gestion_des_notes.java:343:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:343:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:343:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'branche' could be declared final
+application/src/etude/Gestion_des_notes.java:343:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'branche' could be declared final
+application/src/etude/Gestion_des_notes.java:344:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'note' could be declared final
+application/src/etude/Gestion_des_notes.java:344:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'note' could be declared final
+application/src/etude/Gestion_des_notes.java:345:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'requete' could be declared final
+application/src/etude/Gestion_des_notes.java:345:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'requete' could be declared final
+application/src/etude/Gestion_des_notes.java:346:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "','" appears 8 times in this file; the first occurrence is on line 363
+application/src/etude/Gestion_des_notes.java:346:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "','" appears 8 times in this file; the first occurrence is on line 363
+application/src/etude/Gestion_des_notes.java:351:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:351:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:355:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:355:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:358:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:358:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:358:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:358:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:362:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:362:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:362:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:362:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:368:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:368:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:375:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:375:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:376:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:376:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:379:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:379:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:379:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:379:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:381:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+application/src/etude/Gestion_des_notes.java:381:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+application/src/etude/Gestion_des_notes.java:384:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+application/src/etude/Gestion_des_notes.java:384:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+application/src/etude/Gestion_des_notes.java:384:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:384:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:391:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:391:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:396:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:396:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:396:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:396:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:402:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'etudient' could be declared final
+application/src/etude/Gestion_des_notes.java:402:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'etudient' could be declared final
+application/src/etude/Gestion_des_notes.java:406:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:406:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:406:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:406:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:411:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:411:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:411:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:411:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:416:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:416:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:416:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:416:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:418:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+application/src/etude/Gestion_des_notes.java:418:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+application/src/etude/Gestion_des_notes.java:419:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nom' could be declared final
+application/src/etude/Gestion_des_notes.java:419:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nom' could be declared final
+application/src/etude/Gestion_des_notes.java:420:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prenom' could be declared final
+application/src/etude/Gestion_des_notes.java:420:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prenom' could be declared final
+application/src/etude/Gestion_des_notes.java:421:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:421:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:421:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'branche' could be declared final
+application/src/etude/Gestion_des_notes.java:421:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'branche' could be declared final
+application/src/etude/Gestion_des_notes.java:422:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'note' could be declared final
+application/src/etude/Gestion_des_notes.java:422:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'note' could be declared final
+application/src/etude/Gestion_des_notes.java:423:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'requete' could be declared final
+application/src/etude/Gestion_des_notes.java:423:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'requete' could be declared final
+application/src/etude/Gestion_des_notes.java:429:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:429:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+application/src/etude/Gestion_des_notes.java:434:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:434:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:437:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:437:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:437:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:437:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:443:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:443:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:450:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:450:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:451:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:451:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:454:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:454:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:454:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:454:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:456:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+application/src/etude/Gestion_des_notes.java:456:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+application/src/etude/Gestion_des_notes.java:459:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+application/src/etude/Gestion_des_notes.java:459:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+application/src/etude/Gestion_des_notes.java:459:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:459:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:464:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:464:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:468:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:468:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:468:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:468:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:475:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:475:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:475:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:475:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:482:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'etudient' could be declared final
+application/src/etude/Gestion_des_notes.java:482:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'etudient' could be declared final
+application/src/etude/Gestion_des_notes.java:486:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:486:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:486:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:486:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:491:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:491:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:491:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:491:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:496:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:496:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:496:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:496:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'java.awt.event.KeyEvent' due to existing import 'java.awt.event.KeyEvent'
+application/src/etude/Gestion_des_notes.java:504:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'etudient' could be declared final
+application/src/etude/Gestion_des_notes.java:504:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'etudient' could be declared final
+application/src/etude/Gestion_des_notes.java:508:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:508:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'i' could be declared final
+application/src/etude/Gestion_des_notes.java:508:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:508:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+application/src/etude/Gestion_des_notes.java:513:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:513:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+application/src/etude/Gestion_des_notes.java:513:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:513:	SystemPrintln:	SystemPrintln: System.err.println is used
+application/src/etude/Gestion_des_notes.java:518:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:518:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:518:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:518:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+application/src/etude/Gestion_des_notes.java:525:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:525:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+application/src/etude/Gestion_des_notes.java:527:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:527:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:527:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'info' could be declared final
+application/src/etude/Gestion_des_notes.java:527:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'info' could be declared final
+application/src/etude/Gestion_des_notes.java:529:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:529:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:534:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:534:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:534:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:534:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:535:	IdenticalCatchBranches:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+application/src/etude/Gestion_des_notes.java:535:	IdenticalCatchBranches:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+application/src/etude/Gestion_des_notes.java:536:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:536:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:536:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:536:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:537:	IdenticalCatchBranches:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+application/src/etude/Gestion_des_notes.java:537:	IdenticalCatchBranches:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+application/src/etude/Gestion_des_notes.java:538:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:538:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:538:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:538:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:539:	IdenticalCatchBranches:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+application/src/etude/Gestion_des_notes.java:539:	IdenticalCatchBranches:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+application/src/etude/Gestion_des_notes.java:540:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:540:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+application/src/etude/Gestion_des_notes.java:540:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:540:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+application/src/etude/Gestion_des_notes.java:545:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:545:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+application/src/etude/Gestion_des_notes.java:545:	MissingOverride:	MissingOverride: The method 'run()' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:545:	MissingOverride:	MissingOverride: The method 'run()' is missing an @Override annotation.
+application/src/etude/Gestion_des_notes.java:552:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:552:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:552:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:552:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:552:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:552:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:552:	SingularField:	SingularField: Perhaps 'jButton1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:552:	SingularField:	SingularField: Perhaps 'jButton1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:553:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:553:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:553:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:553:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:553:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:553:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:553:	SingularField:	SingularField: Perhaps 'jButton2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:553:	SingularField:	SingularField: Perhaps 'jButton2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:554:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:554:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:554:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:554:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:554:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:554:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:554:	SingularField:	SingularField: Perhaps 'jButton3' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:554:	SingularField:	SingularField: Perhaps 'jButton3' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:555:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:555:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:555:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:555:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:555:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:555:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:555:	SingularField:	SingularField: Perhaps 'jButton4' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:555:	SingularField:	SingularField: Perhaps 'jButton4' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:556:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:556:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:556:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:556:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:556:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:556:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:556:	SingularField:	SingularField: Perhaps 'jButton5' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:556:	SingularField:	SingularField: Perhaps 'jButton5' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:557:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:557:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:557:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:557:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:557:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:557:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:557:	SingularField:	SingularField: Perhaps 'jLabel1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:557:	SingularField:	SingularField: Perhaps 'jLabel1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:558:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:558:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:558:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:558:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:558:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:558:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:558:	SingularField:	SingularField: Perhaps 'jLabel2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:558:	SingularField:	SingularField: Perhaps 'jLabel2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:559:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:559:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:559:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:559:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:559:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:559:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:559:	SingularField:	SingularField: Perhaps 'jLabel3' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:559:	SingularField:	SingularField: Perhaps 'jLabel3' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:560:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:560:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:560:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:560:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:560:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:560:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:560:	SingularField:	SingularField: Perhaps 'jLabel4' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:560:	SingularField:	SingularField: Perhaps 'jLabel4' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:561:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:561:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:561:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:561:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:561:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:561:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:561:	SingularField:	SingularField: Perhaps 'jLabel5' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:561:	SingularField:	SingularField: Perhaps 'jLabel5' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:562:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:562:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:562:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:562:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:562:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:562:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:562:	SingularField:	SingularField: Perhaps 'jLabel6' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:562:	SingularField:	SingularField: Perhaps 'jLabel6' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:563:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:563:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:563:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:563:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:563:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:563:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:563:	SingularField:	SingularField: Perhaps 'jMenu1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:563:	SingularField:	SingularField: Perhaps 'jMenu1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:564:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:564:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:564:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:564:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:564:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:564:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:564:	SingularField:	SingularField: Perhaps 'jMenu2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:564:	SingularField:	SingularField: Perhaps 'jMenu2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:565:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:565:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:565:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:565:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:565:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:565:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:565:	SingularField:	SingularField: Perhaps 'jMenuBar1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:565:	SingularField:	SingularField: Perhaps 'jMenuBar1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:566:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:566:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:566:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:566:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:566:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:566:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:566:	SingularField:	SingularField: Perhaps 'jMenuItem1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:566:	SingularField:	SingularField: Perhaps 'jMenuItem1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:567:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:567:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:567:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:567:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:567:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:567:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:567:	SingularField:	SingularField: Perhaps 'jMenuItem2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:567:	SingularField:	SingularField: Perhaps 'jMenuItem2' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:568:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:568:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:568:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:568:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:568:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:568:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:568:	SingularField:	SingularField: Perhaps 'jMenuItem3' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:568:	SingularField:	SingularField: Perhaps 'jMenuItem3' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:569:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:569:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:569:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:569:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:569:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:569:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:569:	SingularField:	SingularField: Perhaps 'jMenuItem4' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:569:	SingularField:	SingularField: Perhaps 'jMenuItem4' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:570:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:570:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:570:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:570:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:570:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:570:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:570:	SingularField:	SingularField: Perhaps 'jMenuItem5' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:570:	SingularField:	SingularField: Perhaps 'jMenuItem5' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:571:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:571:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:571:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:571:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:571:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:571:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:571:	SingularField:	SingularField: Perhaps 'jMenuItem6' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:571:	SingularField:	SingularField: Perhaps 'jMenuItem6' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:572:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:572:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:572:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:572:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:572:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:572:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:572:	SingularField:	SingularField: Perhaps 'jScrollPane1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:572:	SingularField:	SingularField: Perhaps 'jScrollPane1' could be replaced by a local variable.
+application/src/etude/Gestion_des_notes.java:573:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:573:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:573:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:573:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:573:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:573:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:574:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:574:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:574:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:574:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:574:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:574:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:575:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:575:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:575:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:575:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:575:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:575:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:576:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:576:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:576:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:576:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:576:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:576:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:577:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:577:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:577:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:577:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:577:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:577:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:578:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:578:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:578:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:578:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:578:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:578:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:579:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:579:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+application/src/etude/Gestion_des_notes.java:579:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:579:	CommentRequired:	CommentRequired: Field comments are required
+application/src/etude/Gestion_des_notes.java:579:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+application/src/etude/Gestion_des_notes.java:579:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
